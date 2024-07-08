@@ -1,0 +1,7 @@
+C:\Users\Alan\source\repos\SwitchPromo\SwitchPromo\bin\Debug\SwitchPromo.exe.config
+C:\Users\Alan\source\repos\SwitchPromo\SwitchPromo\bin\Debug\SwitchPromo.exe
+C:\Users\Alan\source\repos\SwitchPromo\SwitchPromo\bin\Debug\SwitchPromo.pdb
+C:\Users\Alan\source\repos\SwitchPromo\SwitchPromo\obj\Debug\SwitchPromo.csproj.AssemblyReference.cache
+C:\Users\Alan\source\repos\SwitchPromo\SwitchPromo\obj\Debug\SwitchPromo.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\SwitchPromo\SwitchPromo\obj\Debug\SwitchPromo.exe
+C:\Users\Alan\source\repos\SwitchPromo\SwitchPromo\obj\Debug\SwitchPromo.pdb
